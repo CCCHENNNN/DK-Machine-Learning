@@ -1,0 +1,4 @@
+If you have Linux, you may play as follows:
+
+aplay -t raw -r 44100 sample-Unisgned8bitPCM-44100Hz.raw
+

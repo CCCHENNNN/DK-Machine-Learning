@@ -1,0 +1,15 @@
+Compression tool: Archive Utility for Mac
+
+Resulting compression rate:
+
+	For the file "hello.raw", the original audio file had 33 Kb and that after compression it has 20 Kb
+	The audio file with 5, 7, 15, and 25 clusters have the following sizes before compression: 33 Kb, 33 Kb, 33 Kb, 33 Kb.
+	And after compression: 4 Kb, 4 Kb, 8 Kb and 8 Kb. So the rates are: 4Kb/20Kb, 4Kb/20Kb, 8Kb/20Kb, 8Kb/20Kb.
+
+	For the file "chinese.raw", the original audio file had 41 Kb and that after compression it has 25 Kb
+	The audio file with 5, 7, 15, and 25 clusters have the following sizes before compression: 41 Kb, 41 Kb, 41 Kb, 41 Kb.
+	And after compression: 4 Kb, 8 Kb, 8 Kb and 8 Kb. So the rates are: 4Kb/25Kb, 8Kb/25Kb, 8Kb/25Kb, 8Kb/25Kb.
+
+	For the file "xuedi.raw", the original audio file had 86 Kb and that after compression it has 53 Kb
+	The audio file with 5, 7, 15, and 25 clusters have the following sizes before compression: 86 Kb, 86 Kb, 86 Kb, 86 Kb.
+	And after compression: 12 Kb, 12 Kb, 20 Kb and 20 Kb. So the rates are: 12Kb/53Kb, 12Kb/53Kb, 20Kb/53Kb, 20Kb/53Kb.
